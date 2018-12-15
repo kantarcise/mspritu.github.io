@@ -258,6 +258,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 # Plugins
 gems:
+  - jekyll-include-cache
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -265,6 +266,7 @@ gems:
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-include-cache
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
