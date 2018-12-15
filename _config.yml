@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-# remote_theme             :
+remote_theme             : "mmistakes/minimal-mistakes@4.14.1"
 locale                   : "en-US"
 title                    : "mspr ITU"
 title_separator          : "-"
@@ -256,6 +256,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
+jekyll-include-cache
 gems:
   - jekyll-paginate
   - jekyll-sitemap
