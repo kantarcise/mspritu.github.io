@@ -4,7 +4,10 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /research/    
+    url: /research/
+    
+  - title: "Research Test"
+    url: /research1/
 
   - title: "People"
     url: /people/   
