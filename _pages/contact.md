@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-======
+
 
 <address>
   Istanbul Technical University<br /> Department of Electronics and Communications Engineering<br /> Electrical and Electronics Engineering Faculty<br />
