@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Research Interests
+Our research interests include
 
 * Deep Learning
 * Object Tracking
