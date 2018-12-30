@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "About Us"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+## Research Interests
 
-Monitoring of modern technologies and technology development in multimodal signal processing and pattern recognition.
-
-This is a test.
+* Multimedia Content Representation
+* Deep Learning
+* Social Signal Processing
+* Probabilistic Graphical Models
+* Non-Negative Matrix Factorization

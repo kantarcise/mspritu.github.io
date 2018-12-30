@@ -9,10 +9,10 @@
 remote_theme             : "mmistakes/minimal-mistakes@4.14.1"
 minimal_mistakes_skin    : "sunrise"
 locale                   : "en-US"
-title                    : "mspr ITU"
+title                    : "MSPR"
 title_separator          : "-"
-name                     : &name "mspr ITU"
-description              : &description "Monitoring of modern technologies and technology development in multimodal signal processing and pattern recognition."
+name                     : &name "MSPR"
+description              : &description "Multimedia Signal Processing and Pattern Recognition Research Group"
 url                      : https://mspritu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mspritu.github.io"
@@ -82,13 +82,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "mspr ITU"
+  name             : "MSPR"
   avatar           : "profile.png"
-  bio              : "Signal processing and pattern recognition are what we do. Monitoring of modern technologies and technology development in multimodal signal processing and pattern recognition."
-  location         : "Location"
+  bio              : "Multimedia Signal Processing and Pattern Recognition Research Group"
+  location         : "Istanbul, TR"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com.tr/citations?hl=tr&user=ZxQ_Pm8AAAAJ&view_op=list_works&sortby=pubdate" 
+  email            : "gunselb@itu.edu.tr"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,13 +102,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/mspritu"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mspritu-this-is-fake"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
