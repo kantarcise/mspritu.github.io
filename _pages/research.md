@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Interests"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-## Research Interests
 
 * Multimedia Content Representation
 * Deep Learning
