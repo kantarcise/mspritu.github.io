@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "People"
+title: ""
 permalink: /people/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Principal Investigators
+Principal Investigator
 ======
 * Bilge GÜNSEL
 
