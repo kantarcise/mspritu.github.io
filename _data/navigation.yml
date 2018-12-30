@@ -6,8 +6,8 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Researcht"
-    url: /researcht/
+#  - title: "Researcht"
+#    url: /researcht/
 
   - title: "People"
     url: /people/   
