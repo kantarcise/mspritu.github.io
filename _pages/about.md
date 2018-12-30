@@ -9,8 +9,10 @@ redirect_from:
 ---
 ## Research Interests
 
-* Multimedia Content Representation
 * Deep Learning
+* Object Tracking
+* Emotion Recognition
+* Multimedia Content Representation
 * Social Signal Processing
 * Probabilistic Graphical Models
 * Non-Negative Matrix Factorization
