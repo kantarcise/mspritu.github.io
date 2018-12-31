@@ -3,9 +3,9 @@ title: "Incremental NMF"
 collection: research
 type: "Research"
 permalink: /research/Incremental_NMF
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-02
-location: "San Francisco, California"
+#venue: "UC San Francisco, Department of Testing"
+#date: 2012-03-02
+#location: "San Francisco, California"
 ---
 
 
