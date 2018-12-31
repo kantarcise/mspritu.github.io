@@ -3,9 +3,9 @@ title: "Audio Fingerprinting & Watermarking"
 collection: research
 type: "Research"
 permalink: /research/Audio_Fingerprinting&Watermarking
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-02
-location: "San Francisco, California"
+#venue: "UC San Francisco, Department of Testing"
+#date: 2012-03-02
+#location: "San Francisco, California"
 ---
 
 In this project we have developed a digital audio content identification system that enables on-line monitoring
