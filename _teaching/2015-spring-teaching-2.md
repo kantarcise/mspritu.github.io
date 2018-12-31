@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Object Tracking by Intetgrating PF Trackers with Deep Object Detectors"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
