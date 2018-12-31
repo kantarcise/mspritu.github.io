@@ -3,9 +3,9 @@ title: "Audio Emotion Recognation"
 collection: research
 type: "Research"
 permalink: /research/Audio_Emotion_Recognation
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-02
-location: "San Francisco, California"
+#venue: "UC San Francisco, Department of Testing"
+#date: 2012-03-02
+#location: "San Francisco, California"
 ---
 
 It is well known that human speech accommodates not only the linguistic content but also the emotional state of the speaker. 
@@ -22,5 +22,3 @@ systems, the proposed feature set learns statistical characteristic of emotional
 data normalization to eliminate speaker or corpus dependency. Recognition performance obtained for the well known
 VAM and EMO-DB corpora show that the classification accuracy achieved by the proposed feature set outperforms the
 reported benchmarking results particularly for valence both for natural and acted emotional data.
-
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
