@@ -18,19 +18,19 @@ People
 * Özgün ÇIRAKMAN
 * Filiz GÜRKAN
 * Barış AKOK
-* Caner ÖZER
+* [Caner ÖZER](https://github.com/canerozer "Github Page")
 * Ulaş TOSUN
 * Oğuzhan GÜLTEKİN
 * Can ELBİRLİK
 * Ozan ÇAKIROĞLU
-* [Bünyamin SAĞMAN](www.google.com "Github Page")<br />
-* Sezai Burak KANTARCI
+* [Bünyamin SAĞMAN](https://github.com/mbunyamins "Github Page")
+* [Sezai Burak KANTARCI](https://github.com/kantarcise "Github Page")
 
 Graduated Students
 ======
 * Serhat Selcuk BUCAK
-* Mehmet Cenk SEZGIN
-* Demir YAVAS
+* Mehmet Cenk SEZGİN
+* Demir YAVAŞ
 * Yener ÜLKER
 * Serap KIRBIZ
 * Yusuf YASLAN
