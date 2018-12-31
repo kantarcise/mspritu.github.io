@@ -1,8 +1,8 @@
 ---
 title: "Talk 1 on Relevant Topic in Your Field"
 collection: research
-type: "Research"
-permalink: /research/Trecvid
+type: "Workshop"
+permalink: /research/trecvid
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
 location: "San Francisco, California"
