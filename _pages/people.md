@@ -9,43 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
-Principal Investigator
+Coordinator
 ======
 * Bilge GÜNSEL
 
-Current Students
+People
 ======
 * Özgün ÇIRAKMAN
 * Filiz GÜRKAN
 * Barış AKOK
 * Caner ÖZER
 * Ulaş TOSUN
+* Oğuzhan GÜLTEKİN
 * Can ELBİRLİK
 * Ozan ÇAKIROĞLU
 * [Bünyamin SAĞMAN](www.google.com "Github Page")<br />
 * Sezai Burak KANTARCI
 
-Former Members
+Graduated Students
 ======
 * Serhat Selcuk BUCAK
-* Ozan GÜRSOY
-* Kadir HERKİLOĞLU
+* Mehmet Cenk SEZGIN
+* Demir YAVAS
+* Yener ÜLKER
+* Serap KIRBIZ
+* Yusuf YASLAN
 * Oguz İÇOĞLU
 * Altug KEYDER
 * Yigitcan SAVRAN
 * Sait ŞENER
 * Bora TUNCER
 * Cagri ULUSOY
-* Yusuf YASLAN
 * Hasan Samet YASLAN
 * Ömer Deniz AKYILDIZ
-* Serap KIRBIZ
 * Sezer KUTLUK
-* Cenk SEZGIN 
-* Yener ULKER
-* Deniz KUMLU
 * Onur KAPLAN
-* Oğuzhan GÜLTEKİN
 * Esra ERGÜN
 * Erdem Onur ÖZYURT
-  
+* Kadir HERKİLOĞLU  
+* Ozan GÜRSOY
