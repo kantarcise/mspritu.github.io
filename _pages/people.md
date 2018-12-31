@@ -11,7 +11,7 @@ redirect_from:
 
 Coordinator
 ======
-* Bilge GÜNSEL
+* [Bilge GÜNSEL](https://web.itu.edu.tr/gunselb/)
 
 People
 ======
