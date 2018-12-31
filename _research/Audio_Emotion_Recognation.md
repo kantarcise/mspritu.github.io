@@ -4,7 +4,7 @@ collection: research
 type: "Research"
 permalink: /research/Audio_Emotion_Recognation
 venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
+date: 2012-03-02
 location: "San Francisco, California"
 ---
 
