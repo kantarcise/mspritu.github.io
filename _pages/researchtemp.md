@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Interests"
-permalink: /research/
+permalink: /researchtemp/
 author_profile: true
 redirect_from:
   - /resume
