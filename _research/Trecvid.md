@@ -3,9 +3,9 @@ title: "Trecvid"
 collection: research
 type: "Workshop"
 permalink: /research/trecvid
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+#venue: "UC San Francisco, Department of Testing"
+#date: 2012-03-01
+#location: "San Francisco, California"
 ---
 
 ITU MSPR Group participates the TREC Video Retrieval Evaluation (TRECVID) in Content Based Copy Detection (CBCD) task.
