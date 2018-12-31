@@ -1,5 +1,7 @@
 ---
 title: "Object Tracking by Integrating PF Trackers with Deep Object Detectors "
+collection: research
+type: "Research"
 permalink: /research/tracking
 ---
 
