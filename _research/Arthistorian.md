@@ -3,9 +3,9 @@ title: "Arthistorian"
 collection: research
 type: "Research"
 permalink: /research/Arthistorian
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-02
-location: "San Francisco, California"
+#venue: "UC San Francisco, Department of Testing"
+#date: 2012-03-02
+#location: "San Francisco, California"
 ---
 
 Recently, the studies for digitizing the paintings and storing them in databases are becoming widespread.
