@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+# title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,6 @@ redirect_from:
 ---
 Our research interests include
 
-* Deep Learning
 * Object Tracking
 * Emotion Recognition
 * Multimedia Content Representation
