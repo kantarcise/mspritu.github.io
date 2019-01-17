@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Our research interests include
+
+Monitoring modern technologies and technology development in multimodal signal processing and pattern recognition at ITU.
+
+### Our research interests include
+
 
 * Object Tracking
 * Emotion Recognition
