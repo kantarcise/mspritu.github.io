@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "MSPR"
+  # name             : "MSPR"
   avatar           : "https://avatars3.githubusercontent.com/u/45351884?s=460&v=4"
   bio              : "Multimedia Signal Processing and Pattern Recognition Research Group"
   location         : "Istanbul, TR"
