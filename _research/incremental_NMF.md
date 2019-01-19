@@ -17,4 +17,4 @@ to dynamic content changes with a low computational complexity.
 The proposed scheme updates former representations by adding the effect of each new sample to the factorization incrementally, 
 while the weighted cost function enablescontrolling the memorylessness of the factorizations. We have shown that the introduced 
 subspace learning schemeis capable of imposing sparseness and smoothness to the factorization with the help of extra cost terms.
-Testresults verify the INMF's efficiency in dimension reduction and success in online factorization of large data sets.
+Test results verify the INMF's efficiency in dimension reduction and success in online factorization of large data sets.
