@@ -18,3 +18,5 @@ The proposed scheme updates former representations by adding the effect of each 
 while the weighted cost function enablescontrolling the memorylessness of the factorizations. We have shown that the introduced 
 subspace learning schemeis capable of imposing sparseness and smoothness to the factorization with the help of extra cost terms.
 Testresults verify the INMF's efficiency in dimension reduction and success in online factorization of large data sets.
+
+Am i a genius?
