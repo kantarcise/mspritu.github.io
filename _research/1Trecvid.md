@@ -2,7 +2,7 @@
 title: "Trecvid"
 collection: research
 type: "Workshop"
-permalink: /research/trecvid
+permalink: /research/Trecvid
 #venue: "UC San Francisco, Department of Testing"
 #date: 2012-03-01
 #location: "San Francisco, California"
