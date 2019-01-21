@@ -17,7 +17,7 @@ IDPF-RP (interleaving deep learning and particle filtering by region proposal su
 
 Overall tracking performance of IDPF-RP is reported on 37 videos of the VOT2016 benchmarking data set.  IDPR-RP highly improves the localization accuracy of tracking particularly under size, illumination appearance and motion change, because of the superior localization capability of deep detector. It also provides the highest success rate and outperforms the top trackers of benchmarking.
 
-[Motorcyclist](https://www.youtube.com/watch?v=dSP68YNG11k&t=0s&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=3) 
+[Motorcyclist](https://www.youtube.com/watch?v=dSP68YNG11k&t=0s&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=3) IDPF-RP (red), Mask R-CNN (green), GT (black).
 
 [![Motorcyclist](road.gif)](https://www.youtube.com/watch?v=dSP68YNG11k&t=0s&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=3)
 
