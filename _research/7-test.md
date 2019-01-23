@@ -1,5 +1,5 @@
 ---
-title: "Template"
+title: "Incremental Nonnegative Matrix Factorization (INMF)"
 collection: research
 type: "Research"
 permalink: /research/temp
@@ -7,9 +7,6 @@ permalink: /research/temp
 #date: 2012-03-02
 #location: "San Francisco, California"
 ---
-
-INCREMENTAL NONNEGATIVE MATRIX FACTORIZATION (INMF)
-======
 
 ### Supplementary Documents
 
