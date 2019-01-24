@@ -45,6 +45,26 @@ Although object tracking performance of INMF and the incremental PCA are compara
 to illumination changes.
 
 
+<!--- Using a bit of html here, in order to achieve middle aligned text. --->
+
+<!---
+<p align="center"><font face="Arial">
+							<a href="visual.htm"><span style="font-weight: 700">
+							Experiment 1</span></a></font></p>
+--->
+<!---                            
+<p align="center"><font face="Arial">
+							<a href="visual2.htm"><span style="font-weight: 700">
+							Experiment 2</span></a></font></p>
+--->
+<!---              
+<p align="center"><font face="Arial">
+							<a href="visual3.htm"><span style="font-weight: 700">
+							Experiment 3</span></a></font></p>              
+--->
+
+<!--- Back to markdown style. --->
+
 ### Publications
 
 S.S. Bucak, B. Gunsel, "Online Video Scene Clustering by Competitive Incremental NMF," Signal Image and Video 
