@@ -48,13 +48,13 @@ to illumination changes.
 ### Publications
 
 S.S. Bucak, B. Gunsel, "Online Video Scene Clustering by Competitive Incremental NMF," Signal Image and Video 
-Processing: 1-17 , 2011.  [[code]](addthe.zip)
+Processing: 1-17 , 2011.  [[code]](comp_INMF.zip)
 
 S.S. Bucak, B. Gunsel, "Incremental Subspace Learning via Non-negative Matrix Factorization," Pattern 
-Recognition , vol 42(5), pp. 788-797, May 2009. [[code]](addthe.zip)
+Recognition , vol 42(5), pp. 788-797, May 2009. [[code]](INMF.zip)
 
 S.S. Bucak, B. Gunsel, "Incremental Clustering via Nonnegative Matrix Factorization," International Conference 
-on Pattern Recognition (ICPR), Florida, USA, 2008. [[code]](addthe.zip)
+on Pattern Recognition (ICPR), Florida, USA, 2008. [[code]](inc_INMF.zip)
 
 Bucak, S.S., Gunsel, B., Gursoy O., "Incremental Non-negative Matrix Factorization for Dynamic background
 Modelling," ICEIS 8th International Workshop on Pattern Recognition in Information Systems (PRIS), Funchal, Portugal, 12-13 June 2007.
