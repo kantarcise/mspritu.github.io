@@ -45,23 +45,79 @@ Although object tracking performance of INMF and the incremental PCA are compara
 to illumination changes.
 
 
+
+
 <!--- Using a bit of html here, in order to achieve middle aligned text. --->
 
-<!---
-<p align="center"><font face="Arial">
-							<a href="visual.htm"><span style="font-weight: 700">
-							Experiment 1</span></a></font></p>
---->
-<!---                            
-<p align="center"><font face="Arial">
-							<a href="visual2.htm"><span style="font-weight: 700">
-							Experiment 2</span></a></font></p>
---->
-<!---              
-<p align="center"><font face="Arial">
-							<a href="visual3.htm"><span style="font-weight: 700">
-							Experiment 3</span></a></font></p>              
---->
+<details><summary align = "center"><b>Experiment 1</b></summary>
+<p>
+<p align = "center"><b>
+Adaptibility To Dynamic Content Changes
+	</b></p>
+In order to justify the INMF representations’ capability of adaptation to dynamic data variations, a test video
+sequence which contains mobile foreground objects are used. In video surveillance applications, initially a background
+model is constructed and if there is a foreground object or motion in the scene, for instance if an object enters to
+the scene or an initially stable object in the background starts moving, the deviations from the background model
+are tracked. On the other hand, after a mobile object exits from the scene, or stops thus turns into a background
+object, a powerful online factorization scheme should be capable of adapting the representation according to these
+changes. 
+	These changes are referred as dynamic content changes and could be considered as local variations from
+the observed model. That is, the observed samples are not globally changed but only a local region of data experiences
+variations. So, when the samples (frames) containing foreground objects (local variations) are projected onto
+the background model, these deviations from the original factorization can be measured. Alternatively, after
+reconstructing each frame by using the factorization of the background model, the deviations from the background
+can be found by calculating the reconstruction error. We have constructed difference images by substituting the
+reconstructed image from the original frame. By this method, we aim to detect the foreground objects (if exist) in the scene.
+	
+<!--- Here, we compare the performances of incremental non-negative matrix factorization (INMF) and the conventional non-negative
+matrix factorization (INMF) in adaptability to dynamic content changes. We have 2 videos which are made up of difference images. --->
+
+<!---According to the videos above, it is clear that INMF outperforms NMF in this task. In the NMF video, it can be seen that NMF 
+fails to  update the background model successfully. Because of this, after a mobile object stops and becomes a background 
+object, it still exists in the second video. On the other hand, INMF successfully forms representations in which foreground
+objects and background are seperated. --->
+
+</p>
+</details>
+
+
+
+<details><summary align = "center"><b>Experiment 2</b></summary>
+<p>
+<p align = "center"><b>
+Robustness To Illuminaton Changes
+	</b></p>
+	Background modeling in outdoor surveillance video sequences may be more challenging as the illumination is 
+very likely to change throughout the scene. The variations in the background model caused by illumination changes are 
+global. In fact, illumination changes result in a shift at intensity values of majority of the pixels, resulting in a
+significant change in their mean value. Therefore, intense illumination changes are difficult to handle because
+of the deviations they cause on the observed data.
+	<!--- We have evaluated the incremental factorization performance under severe illumination changes. A comparison between the incremental non-negative matrix factorization (INMF) and incremental principle component analysis (IPCA) has been performed for the weighting functions (1- α) and α. In order to make the differences more visible, α is chosen as 0.05. The following videos are made up of difference frames which are taken from a scene where there is no foreground object or motion, except the illumination changes. It is clear that the INMF is more robust to global data changes compared to IPCA, for the effects of illumination change are less in the INMF video. --->
+
+</p>
+</details>
+
+
+<details><summary align = "center"><b>Experiment 3</b></summary>
+<p>
+<p align = "center"><b>
+Inremental Learning By Incremental Non-Negative Matrix Factorization
+	</b></p>
+	Once the representations (i.e. matrices W and H) are obtained for a group of observations, INMF aims to update
+the former representations according to the new samples.  In video surveillance application, we try to model the background
+in the scene and update the background model as the dynamic content of the video changes. So, whenever a new farme is acquired,
+the mixing matrix W, which in fact reflects the characteristics of the scene, is updated by including the effect of the new
+frame. So for each new sample in the incremental algorithm, the mixing matrix W experiences some changes depending on the video
+content.
+	<!--- In our video surveillence application, since the rank (r) is chosen as 2, W  has 2 columns. Each column of matrix W
+is a basis image of the scene. So, after obtaining the basis images for each step, we have constructed 2 video sequences by
+making each of the basis vactors a video frame in order to observe the changes in the basis images. The first video contains
+the basis images obtained from the first column of W whereas the second one is constructed from the basis images retrieved from
+the second column of W.  The changes in the content of the scene are successfully reflected to the basis images as it can be seen
+in the following video sequences. --->
+</p>
+</details>
+
 
 <!--- Back to markdown style. --->
 
