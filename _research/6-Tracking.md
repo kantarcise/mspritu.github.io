@@ -17,19 +17,26 @@ IDPF-RP (interleaving deep learning and particle filtering by region proposal su
 
 Overall tracking performance of IDPF-RP is reported on 37 videos of the VOT2016 benchmarking data set.  IDPR-RP highly improves the localization accuracy of tracking particularly under size, illumination appearance and motion change, because of the superior localization capability of deep detector. It also provides the highest success rate and outperforms the top trackers of benchmarking.
 
-[Motorcyclist](https://www.youtube.com/watch?v=dSP68YNG11k&t=0s&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=3) IDPF-RP (red), Mask R-CNN (green), GT (black).
+<p align="center">
+  <br>
+  <a href="https://www.youtube.com/watch?v=dSP68YNG11k&t=0s&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=3">Motorcyclist</a> IDPF-RP 
+ (red), Mask R-CNN (green), GT (black).
+ <br/>
+  <img src="road.gif">
+ <br/>
+  <a href="https://www.youtube.com/watch?v=Y749zJCZFH0&t=0s&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=21">Graduate</a> IDPF-RP
+ (red), Mask R-CNN (green), GT (black).
+ <br/>
+  <img src="graduate.gif">
+ <br/>
+  <a href="https://www.youtube.com/watch?v=sRSnp5G7Gn8&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=29">Basketball Player</a> IDPF-RP
+ (red), Mask R-CNN (green), GT (black).
+ <br/>
+  <img src="basketball.gif">
+ <br/>
+  <br><br>
+</p>
 
-[![Motorcyclist](road.gif)](https://www.youtube.com/watch?v=dSP68YNG11k&t=0s&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=3)
-
-[Graduate](https://www.youtube.com/watch?v=Y749zJCZFH0&t=0s&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=21) IDPF-RP (red), Mask R-CNN (green), GT (black).
-
-[![Graduate](graduate.gif)](https://www.youtube.com/watch?v=Y749zJCZFH0&t=0s&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=21)
-
-[Basketball Players](https://www.youtube.com/watch?v=sRSnp5G7Gn8&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=29) IDPF-RP (red), Mask R-CNN (green), GT (black).
-
-[![Basketball Players](basketball.gif)](https://www.youtube.com/watch?v=sRSnp5G7Gn8&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=29)
-
-[The playlist to our videos showing results can be found here.](https://www.youtube.com/playlist?list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3 "Youtube Page")
 
 
 MM - VRPF
