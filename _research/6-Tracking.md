@@ -18,18 +18,19 @@ IDPF-RP (interleaving deep learning and particle filtering by region proposal su
 Overall tracking performance of IDPF-RP is reported on 37 videos of the VOT2016 benchmarking data set.  IDPR-RP highly improves the localization accuracy of tracking particularly under size, illumination appearance and motion change, because of the superior localization capability of deep detector. It also provides the highest success rate and outperforms the top trackers of benchmarking.
 
 <p align="center">
-  <br>
-   <a href="https://www.youtube.com/watch?v=dSP68YNG11k&t=0s&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=3">Road</a> IDPF-RP 
- (red), Mask R-CNN (green), GT (black).
+ <br>
+   <strong><a href="https://www.youtube.com/watch?v=dSP68YNG11k&t=0s&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=3">Road</a></strong>
+ IDPF-RP (red), Mask R-CNN (green), GT (black).
  <br/>
  <br/>
- <a href="https://www.youtube.com/watch?v=dSP68YNG11k&t=0s&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=3">
+  <a href="https://www.youtube.com/watch?v=dSP68YNG11k&t=0s&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=3">
   <img src="road.gif">
  </a>
  <br/>
  <br/>
-  <a href="https://www.youtube.com/watch?v=Y749zJCZFH0&t=0s&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=21">Graduate</a> IDPF-RP
- (red), Mask R-CNN (green), GT (black).
+   <strong><a href="https://www.youtube.com/watch?v=Y749zJCZFH0&t=0s&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=21">Graduate</a>
+ </strong>
+ IDPF-RP (red), Mask R-CNN (green), GT (black).
  <br/>
  <br/>
  <a href="https://www.youtube.com/watch?v=Y749zJCZFH0&t=0s&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=21">
@@ -37,8 +38,8 @@ Overall tracking performance of IDPF-RP is reported on 37 videos of the VOT2016 
  </a>
  <br/>
  <br/>
-  <a href="https://www.youtube.com/watch?v=sRSnp5G7Gn8&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=29">Basketball</a> IDPF-RP
- (red), Mask R-CNN (green), GT (black).
+  <strong><a href="https://www.youtube.com/watch?v=sRSnp5G7Gn8&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=29">Basketball</a></strong>
+ IDPF-RP (red), Mask R-CNN (green), GT (black).
  <br/>
  <br/>
  <a href="https://www.youtube.com/watch?v=sRSnp5G7Gn8&list=PLMzonaXew-57RYoqFr4-sGbkdnUkHnqg3&index=29">
