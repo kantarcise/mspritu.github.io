@@ -16,25 +16,25 @@ Overall tracking performance of IDPF-RP is reported on 37 videos of the VOT2016 
 
 <p align="center">
  <br>
-   <strong>Road</strong>
+   <strong>Gymnastics3</strong>
  TAVOT (red), Mask R-CNN (green), GT (black).
  <br/>
  <br/>
-  <img src="road-tavot.gif">
+  <img src="gymnastics3_tavot.gif">
  <br/>
  <br/>
-   <strong>Graduate</strong>
- IDPF-RP (red), Mask R-CNN (green), GT (black).
+   <strong>Handball2</strong>
+ TAVOT (red), Mask R-CNN (green), GT (black).
  <br/>
  <br/>
-  <img src="graduate-tavot.gif">
+  <img src="handball2_tavot.gif">
  <br/>
  <br/>
   <strong>Basketball</strong>
- IDPF-RP (red), Mask R-CNN (green), GT (black).
+ TAVOT (red), Mask R-CNN (green), GT (black).
  <br/>
  <br/>
-  <img src="basketball-tavot.gif">
+  <img src="basketball_tavot.gif">
  <br/>
   <br><br>
 </p>
