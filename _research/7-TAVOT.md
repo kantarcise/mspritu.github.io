@@ -38,3 +38,5 @@ Overall tracking performance of IDPF-RP is reported on 37 videos of the VOT2016 
  <br/>
   <br><br>
 </p>
+
+[The playlist to our videos showing results can be found here.](https://www.youtube.com/playlist?list=PLMzonaXew-5555SlsP07XRKy8QEtOUIuw "Youtube Playlist")
