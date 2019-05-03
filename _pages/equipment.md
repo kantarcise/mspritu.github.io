@@ -12,7 +12,7 @@ author_profile: true
 ## System 1
 
 * Intel® Core™ i7-6700K Processor
-* MSI GeForce GTX1080 Gaming X 8GB Graphics Card #sudo dmidecode -t 2
+* MSI GeForce GTX1080 Gaming X 8GB Graphics Card
 * 32 GB RAM
 * 2 TB HDD + 256 GB SSD
 
