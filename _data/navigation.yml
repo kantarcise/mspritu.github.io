@@ -9,8 +9,8 @@ main:
   - title: "People"
     url: /people/   
     
-  - title: "Equipment"
-    url: /equipment/
+  - title: "Equipments"
+    url: /equipments/
 
   - title: "Contact"
     url: /contact/
