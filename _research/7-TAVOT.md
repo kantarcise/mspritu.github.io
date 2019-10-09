@@ -6,6 +6,7 @@ permalink: /research/tavot
 ---
 
 
+TAVOT (Target Aware Visual Object Tracking) is a visual object tracker that improves accuracy while significantly decreasing false alarm rate.
 
 TAVOT
 ======
