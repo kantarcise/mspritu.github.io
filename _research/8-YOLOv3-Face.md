@@ -8,6 +8,8 @@ permalink: /research/YOLOv3-Face
 #location: "San Francisco, California"
 ---
 
+This repo gives information about training on YOLOv3 and shows results which is obtained from WIDER Face Dataset.
+
 # YOLOv3-Face
 
 In this repo, you can find the weights file created by training with YOLOv3 and our results on the WIDER dataset. Also it has been added configuration files for use of weights file properly.
