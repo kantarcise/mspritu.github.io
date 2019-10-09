@@ -13,6 +13,9 @@ TAVOT
 
 Overall tracking performance of IDPF-RP is reported on 37 videos of the VOT2016 benchmarking data set.  IDPR-RP highly improves the localization accuracy of tracking particularly under size, illumination appearance and motion change, because of the superior localization capability of deep detector. It also provides the highest success rate and outperforms the top trackers of benchmarking.
 
+See our [paper](https://link.springer.com/chapter/10.1007/978-3-030-27272-2_16) for more details on the algorithm.
+
+
 <p align="center">
  <br>
    <strong>Gymnastics3</strong>
