@@ -10,7 +10,7 @@ permalink: /research/Mobile Tracking
 
 The aim of this project is to integrate object detection and tracking methots to mobile devices especially smart phones; which are more common in daily life than computers. 
 
-In addition, thanks to sensors, one of the most important gains of working on mobile devices, it is aimed to increase object tracking 
+In addition, thanks to sensors -one of the most important advantages of working on mobile devices- it is aimed to increase object tracking 
 performance in case of moving camera. All these goals have been reached under various assumptions and details are included in the study.
 
 The performance of the integrated object detector is inspected under a new dataset, referred as "Mobile Video Dataset". 720p 30 fps videos 
