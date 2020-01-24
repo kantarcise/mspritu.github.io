@@ -18,7 +18,7 @@ To learn more about the project you can check out the [repository](https://githu
 <p align="center">
  <br>
    <strong>Dog1 sequence,</strong>
-Tracked BB by TinyYOLOv3 (Turquoise), Accelerometer (Red), Integrated (Blue dashed).
+Target object BB tracked by TinyYOLOv3 (Turquoise), Accelerometer (Red), Integrated (Blue dashed).
  <br/>
  <br/>
   <img src="dog1.gif">
