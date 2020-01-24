@@ -11,6 +11,7 @@ In the context of this project state-of-the-art real-time deep object detectors 
 
 We have recorded a number of video  sequence by mobile phones with different brands. The data set MSPR-mobile and its groundtruht can be used by other parties for performance evaluation.
 
+To learn more about the project you can check out the [repository](https://github.com/msprITU/MobileTracking). 
 
 <p align="center">
  <br>
