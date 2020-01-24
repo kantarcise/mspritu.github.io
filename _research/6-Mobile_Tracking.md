@@ -11,14 +11,14 @@ In the context of this project state-of-the-art real-time deep object detectors 
 
 Current version is designed for [TinyYOLOv3](https://arxiv.org/abs/1804.02767) object detector enhanced by the acceleretor data but the algorithm can be easily generalized to other methods. 
 
-We have recorded a number of video  sequence by mobile phones with different brands. Constructed MSPR-mobile dataset and its groundtruht can be used by other parties for performance evaluation.
+We have recorded a number of video  sequence by mobile phones with different brands. Constructed MSPR-mobile dataset and its groundtruht made open to other parties.
 
 To learn more about the project you can check out the [repository](https://github.com/msprITU/MobileTracking). 
 
 <p align="center">
  <br>
-   <strong>Dog1</strong>
- TinyYOLOv3(Turquoise), Accelerometer Model (Red), Integrated Result (Blue dashed).
+   <strong>Dog1 sequence,</strong>
+Tracked BB by TinyYOLOv3(Turquoise), Accelerometer(Red), Integrated Result (Blue dashed).
  <br/>
  <br/>
   <img src="dog1.gif">
